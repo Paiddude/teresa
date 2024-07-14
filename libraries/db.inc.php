@@ -1,8 +1,8 @@
 <?php 
 $host = "localhost";
-$username = "teresa";
+$username = "aesoarwj_teresa";
 $pw = "kNdf~l9Ts@Q4";
-$db = "teresa";
+$db = "aesoarwj_teresa";
 
 // $g = "3ae34c11f8a01b896a6d3d5e3228da46";
 
