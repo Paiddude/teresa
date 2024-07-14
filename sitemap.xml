@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!--  created with sitemap generator https://octopus.do  -->
+
+    <url>
+        <loc>https://www.teresajanettebrock.com</loc>
+        <lastmod>2023-04-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://teresajanettebrock.com/index</loc>
+        <lastmod>2023-04-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://teresajanettebrock.com/about</loc>
+        <lastmod>2023-04-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://teresajanettebrock.com/portfolio</loc>
+        <lastmod>2023-04-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://teresajanettebrock.com/contact</loc>
+        <lastmod>2023-04-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://teresajanettebrock.com/default-email-message</loc>
+        <lastmod>2023-04-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>https://teresajanettebrock.com/process</loc>
+        <lastmod>2023-04-18</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+</urlset>
